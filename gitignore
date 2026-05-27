@@ -1,0 +1,54 @@
+# ── Compiled Java class files ─────────────────────────────────────────
+*.class
+
+# ── Packaged archives ─────────────────────────────────────────────────
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# ── Data files (local runtime data — not for version control) ─────────
+data/
+
+# ── IDE — IntelliJ IDEA ───────────────────────────────────────────────
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+
+# ── IDE — Eclipse ─────────────────────────────────────────────────────
+.classpath
+.project
+.settings/
+bin/
+
+# ── IDE — NetBeans ────────────────────────────────────────────────────
+nbproject/private/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+build/
+
+# ── IDE — VS Code ─────────────────────────────────────────────────────
+.vscode/
+.factorypath
+
+# ── macOS ─────────────────────────────────────────────────────────────
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# ── Windows ───────────────────────────────────────────────────────────
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# ── Linux ─────────────────────────────────────────────────────────────
+*~
+
+# ── Logs ──────────────────────────────────────────────────────────────
+*.log

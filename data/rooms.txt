@@ -1,0 +1,9 @@
+101|Standard|2500.0|true
+201|Deluxe|4500.0|true
+202|Deluxe|4500.0|true
+301|Suite|8500.0|true
+302|Suite|8500.0|true
+401|Presidential|15000.0|true
+402|Presidential|15000.0|true
+102|Standard|2500.0|true
+103|Suite|8500.0|true
