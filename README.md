@@ -6,7 +6,7 @@
 
 ## Overview
 
-**Martinez Royal Suite** is a full-featured hotel management application designed for front-desk operations. It manages rooms, guests, reservations, billing, and checkout archives — all through a polished, themed Java Swing interface.
+This project is a full-featured hotel management application designed for front-desk operations. It manages rooms, guests, reservations, billing, and checkout archives — all through a polished, themed Java Swing interface.
 
 ---
 
