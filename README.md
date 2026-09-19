@@ -1,30 +1,30 @@
-# 👑 Martinez Royal Suite — Hotel Management System
+# Martinez Royal Suite — Hotel Management System
 
 > A desktop-based hotel management system built with Java Swing, featuring a dark navy & gold royal theme.
 
 ---
 
-## 📸 Overview
+## Overview
 
 **Martinez Royal Suite** is a full-featured hotel management application designed for front-desk operations. It manages rooms, guests, reservations, billing, and checkout archives — all through a polished, themed Java Swing interface.
 
 ---
 
-## ✨ Features
+## Features
 
 | Module | Description |
 |---|---|
-| 🏠 **Dashboard** | Live overview — room counts, active bookings, revenue stats, and recent reservations |
-| 🛏️ **Room Management** | Add, update, and delete rooms with type and pricing |
-| 👤 **Customer Management** | Register and manage guest profiles with government ID tracking |
-| 📅 **Reservations** | Book rooms, prevent double-booking, calculate costs, and cancel reservations |
-| 💰 **Billing & Checkout** | Generate bills with tax breakdown, process checkouts, and print summaries |
-| 🗃️ **Archived Guests** | View complete checkout history with searchable records and revenue stats |
-| 🛎️ **Guest Booking** | Step-by-step guided booking wizard (Browse → Details → Guest Info → Confirm) |
+| **Dashboard** | Live overview — room counts, active bookings, revenue stats, and recent reservations |
+| **Room Management** | Add, update, and delete rooms with type and pricing |
+| **Customer Management** | Register and manage guest profiles with government ID tracking |
+| **Reservations** | Book rooms, prevent double-booking, calculate costs, and cancel reservations |
+| **Billing & Checkout** | Generate bills with tax breakdown, process checkouts, and print summaries |
+| **Archived Guests** | View complete checkout history with searchable records and revenue stats |
+| **Guest Booking** | Step-by-step guided booking wizard (Browse → Details → Guest Info → Confirm) |
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Language:** Java (JDK 8+)
 - **UI Framework:** Java Swing (Nimbus Look and Feel base)
@@ -33,7 +33,7 @@
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 MartinezRoyalSuite/
@@ -70,7 +70,7 @@ MartinezRoyalSuite/
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
@@ -99,7 +99,7 @@ java Main
 
 ---
 
-## 🔐 Default Login Credentials
+## Default Login Credentials
 
 | Username | Password |
 |---|---|
@@ -107,11 +107,11 @@ java Main
 | `Karl Martinez` | `adimar` |
 | `Bernabe Cabuhayan` | `serberns` |
 
-> ⚠️ These are hardcoded in `LoginScreen.java`. For production use, replace with a secure authentication mechanism.
+> These are hardcoded in `LoginScreen.java`. For production use, replace with a secure authentication mechanism.
 
 ---
 
-## 💾 Data Storage
+## Data Storage
 
 All data is stored locally in the `data/` directory as pipe-delimited `.txt` files:
 
@@ -131,7 +131,7 @@ A0001|C001|Juan Dela Cruz|09171234567|R0001|101|Standard|2025-06-15|2025-06-18|3
 
 ---
 
-## 🎨 Design System
+## Design System
 
 The UI uses a consistent **dark navy & gold** royal theme defined in `Theme.java`:
 
@@ -144,7 +144,7 @@ All reusable components (buttons, fields, tables, cards) are centralized in `Roy
 
 ---
 
-## 📌 Room Types & Pricing
+## Room Types & Pricing
 
 The system supports four room categories (pricing set per room):
 
@@ -155,7 +155,7 @@ The system supports four room categories (pricing set per room):
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you'd like to change.
 
@@ -167,13 +167,13 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 ---
 
-## 📄 License
+## License
 
 This project is open source and available under the [MIT License](LICENSE).
 
 ---
 
-## 👨‍💻 Authors
+## Authors
 
 Developed as a Java Swing desktop application project.
 
