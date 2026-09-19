@@ -1,5 +1,4 @@
 ╔══════════════════════════════════════════════════════════════════╗
-║          ♛  MARTINEZ ROYAL SUITE                                 ║
 ║             Hotel Management System  —  v1.0                     ║
 ╚══════════════════════════════════════════════════════════════════╝
 
@@ -99,11 +98,11 @@
 ─────────────────────────────────────────────────────────────────
   SYSTEM MODULES
 ─────────────────────────────────────────────────────────────────
-  ♛ Dashboard       — Live stats: rooms, guests, revenue
-  🛏 Room Mgmt.     — Add/Edit/Delete rooms, view availability
-  👤 Customers      — Register guests, edit & delete records
-  📅 Reservations   — Book rooms, auto-compute cost, cancel
-  💰 Billing        — Load bill, checkout, print receipt
+  Dashboard       — Live stats: rooms, guests, revenue
+  Room Mgmt.     — Add/Edit/Delete rooms, view availability
+  Customers      — Register guests, edit & delete records
+  Reservations   — Book rooms, auto-compute cost, cancel
+  Billing        — Load bill, checkout, print receipt
 
 ─────────────────────────────────────────────────────────────────
   TYPICAL WORKFLOW
@@ -127,5 +126,5 @@
   • Blank tables on startup  → Normal if data files are empty.
     Add some rooms and customers first.
 
-  • Crown symbol (♛) shows as a box  → Your terminal font may
+  • Crown symbol shows as a box  → Your terminal font may
     not support Unicode; the GUI itself will display it fine.
