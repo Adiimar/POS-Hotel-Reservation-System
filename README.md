@@ -1,4 +1,4 @@
-# Martinez Royal Suite — Hotel Management System
+# Hotel Management System
 
 > A desktop-based hotel management system built with Java Swing, featuring a dark navy & gold royal theme.
 
